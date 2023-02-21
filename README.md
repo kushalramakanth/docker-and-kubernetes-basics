@@ -18,7 +18,7 @@
 
 ## Q. What is Docker?
 
-Docker is a containerization platform which packages your application and all its dependencies together in the form of containers so as to ensure that your application works seamlessly in any environment, be it development, test or production.
+Docker is a containerization ackages your application and all its dependencies together in the form of containers so as to ensure that your application works seamlessly in any environment, be it development, test or production.
 
 <p align="center">
   <img src="assets/docker-architecture.png" alt="Docker Architecture" width="600px" />
